@@ -41,7 +41,7 @@
     </script>
           
         <b> <u> Service Provider Org </u></b>  
-        I am Canvas App from Salesforce Domain <b> Jitendra.zaa5@gmail.com </b>      
+        I am Canvas App from Salesforce Domain <b> ttummala@salesforce.com </b>      
         User : {!$User.FirstName} {!$User.LastName} 
         Org : {!$Organization.Name}
         Session Id : <span id="spSessionId"></span>    
